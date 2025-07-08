@@ -14,7 +14,7 @@ class AmirHossein:
         "frontend": {
             "basic_design": ["Photoshop"]
         },
-        "systems": ["Linux (Ubuntu)"]
+        "systems": ["Linux (Ubuntu)", Windows]
     }
     current_focus = (
         "Improving ML skills, contributing to open-source, "
@@ -23,3 +23,5 @@ class AmirHossein:
     fun_fact = "I love solving problems with clean, efficient code."
 
 print(f"👋 Hi there! I'm {AmirHossein.__name__}")
+print("You have to believe it to get it.💙💕")
+
