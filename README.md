@@ -14,7 +14,7 @@ class AmirHossein:
         "frontend": {
             "basic_design": ["Photoshop"]
         },
-        "systems": ["Linux (Ubuntu)", Windows]
+        "systems": ["Linux (Ubuntu)", "Windows"]
     }
     current_focus = (
         "Improving ML skills, contributing to open-source, "
