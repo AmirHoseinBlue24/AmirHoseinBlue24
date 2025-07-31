@@ -5,7 +5,7 @@ class AmirHossein:
         "A passionate Python developer eager to build smart tools "
         "and learn cutting-edge technologies like Machine Learning."
     )
-    languages = ["Python", "MicroPython", "Bash"]
+    languages = ["Python", "Java", "MicroPython", "Bash"]
     expertise = {
         "backend": {
             "bots": ["Telegram Bot API", "Automation Scripts"],
